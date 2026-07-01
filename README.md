@@ -1,44 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Lulu Nasrin
 
-# Hi, I'm Lulu Nasrin 👋
+## **Transforming Data into Actionable Insights**
 
-### 📊 Data Analyst | Power BI | SQL | Python | Machine Learning
+### Data Analyst | Excel | Power BI | SQL | Python | Tableau | Machine Learning
 
-I transform raw data into meaningful insights through analytics, dashboards, and predictive models. Passionate about solving business problems with data and continuously exploring new technologies.
+I enjoy uncovering insights from data and transforming them into interactive dashboards and meaningful business solutions. My goal is to bridge the gap between data and decision-making through analytics and visualization.
 
-### 🚀 Tech Stack
+### 💻 Tech Stack
 
-**Power BI • Tableau • SQL • Python • Machine Learning • Excel • DAX • Power Query • MySQL**
+`Power BI` • `Tableau` • `Python` • `SQL` • `Machine Learning` • `Excel` • `DAX` • `Power Query` • `MySQL` • `Git`
 
-### 📌 Featured Project
+### 🌱 Currently Growing In
 
-**🛒 Olist E-commerce Sales Dashboard**
-
-* Built an end-to-end analytics dashboard in Power BI
-* Performed data cleaning, data modeling, and KPI analysis
-* Generated actionable insights on sales, customers, payments, and product performance
-
-### 🌱 Currently Exploring
-
-Advanced Analytics • Machine Learning • Data Storytelling • Business Intelligence
+- Advanced Data Analytics
+- Machine Learning
+- Data Storytelling
+- Business Intelligence
 
 ### 📫 Connect
 
-* 💼 LinkedIn: linkedin.com/in/yourprofile
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+💼 LinkedIn: https://www.linkedin.com/in/lulu-nasrin-k
 
-> **Turning data into insights. Empowering decisions with analytics.**
-!--
-**lulunasrin/lulunasrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Email: [lulunasrink@gmail.com](mailto:lulunasrink@gmail.com)
 
-Here are some ideas to get you started:
+> **"Every dataset has a story—I'm here to tell it."**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
