@@ -23,6 +23,6 @@ I enjoy uncovering insights from data and transforming them into interactive das
 
 📧 Email: [lulunasrink@gmail.com](mailto:lulunasrink@gmail.com)
 
-> **"Every dataset has a story—I'm here to tell it."**
+## **"Every dataset has a story—I'm here to tell it."**
 
 
